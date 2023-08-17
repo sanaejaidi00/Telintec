@@ -1,0 +1,105 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TelintecApp
+build_property.RootNamespace = TelintecApp
+build_property.ProjectDir = C:\Users\sanaa\OneDrive\Desktop\PFA\TelintecApp\TelintecApp\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\sanaa\OneDrive\Desktop\PFA\TelintecApp\TelintecApp
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/sanaa/OneDrive/Desktop/PFA/TelintecApp/TelintecApp/Views/Departments/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanaa/OneDrive/Desktop/PFA/TelintecApp/TelintecApp/Views/Departments/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanaa/OneDrive/Desktop/PFA/TelintecApp/TelintecApp/Views/Departments/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanaa/OneDrive/Desktop/PFA/TelintecApp/TelintecApp/Views/Departments/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanaa/OneDrive/Desktop/PFA/TelintecApp/TelintecApp/Views/Departments/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanaa/OneDrive/Desktop/PFA/TelintecApp/TelintecApp/Views/Employees/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanaa/OneDrive/Desktop/PFA/TelintecApp/TelintecApp/Views/Employees/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanaa/OneDrive/Desktop/PFA/TelintecApp/TelintecApp/Views/Employees/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanaa/OneDrive/Desktop/PFA/TelintecApp/TelintecApp/Views/Employees/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanaa/OneDrive/Desktop/PFA/TelintecApp/TelintecApp/Views/Employees/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanaa/OneDrive/Desktop/PFA/TelintecApp/TelintecApp/Views/Holidays/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9saWRheXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanaa/OneDrive/Desktop/PFA/TelintecApp/TelintecApp/Views/Holidays/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9saWRheXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanaa/OneDrive/Desktop/PFA/TelintecApp/TelintecApp/Views/Holidays/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9saWRheXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanaa/OneDrive/Desktop/PFA/TelintecApp/TelintecApp/Views/Holidays/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9saWRheXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanaa/OneDrive/Desktop/PFA/TelintecApp/TelintecApp/Views/Holidays/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9saWRheXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanaa/OneDrive/Desktop/PFA/TelintecApp/TelintecApp/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanaa/OneDrive/Desktop/PFA/TelintecApp/TelintecApp/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanaa/OneDrive/Desktop/PFA/TelintecApp/TelintecApp/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanaa/OneDrive/Desktop/PFA/TelintecApp/TelintecApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanaa/OneDrive/Desktop/PFA/TelintecApp/TelintecApp/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanaa/OneDrive/Desktop/PFA/TelintecApp/TelintecApp/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanaa/OneDrive/Desktop/PFA/TelintecApp/TelintecApp/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-0t7vitsmm9

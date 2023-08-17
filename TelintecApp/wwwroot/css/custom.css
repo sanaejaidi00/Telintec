@@ -1,0 +1,33 @@
+﻿/* Sidebar styling */
+.sidebar {
+    height: 100vh;
+    padding-top: 1rem;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 220px;
+}
+
+/* Set active link style */
+.nav-link.active {
+    background-color: #f8f9fa;
+}
+
+/* Main content styling */
+main {
+    margin-top: 2rem;
+}
+
+/* Card layout for content */
+.card {
+    margin-bottom: 1.5rem;
+}
+
+/* Responsive styles */
+@media (max-width: 768px) {
+    .sidebar {
+        position: static;
+        height: auto;
+        width: 100%;
+    }
+}
